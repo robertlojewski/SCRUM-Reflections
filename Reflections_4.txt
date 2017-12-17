@@ -1,0 +1,2 @@
+Pyt: Jaka jest podstawowa ró¿nica pomiêdzy SCRUM a Kanban?
+Odp: W Kanban nie okreslamy ram czasowych, nie ma sprintow. W SCRUM s¹ sprinty, najczesciej 1-2 tyg. kazdy.
