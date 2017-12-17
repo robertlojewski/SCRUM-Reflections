@@ -1,0 +1,2 @@
+Pyt: Co to jest TDD (Test Driven Development)?
+Odp: Najpierw tworzymy scenariusz testowy, pozniej kod w³asciwy.
