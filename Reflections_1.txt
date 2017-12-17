@@ -1,0 +1,2 @@
+Pyt: Jaka jest ró¿nica miêdzy wymaganiami funkcjonalnymi i niefunkcjonalnymi?
+Odp: Funkcjonalne mowi¹ co, niefuncjonalne mówi¹ jak.
