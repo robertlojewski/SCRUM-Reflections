@@ -1,0 +1,2 @@
+Pyt: Według czego musi być posortowany backlog?
+Odp: Według priorytetow w danym priojekcie. Najbardziej kluczowe rzeczy na poczatek, reszta jak starczy czasu.
